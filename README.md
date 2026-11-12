@@ -19,3 +19,7 @@ Establish the exact diff and intended behavior, review surrounding code, investi
 Provide a concise summary, severity-ranked findings with file locations and concrete failure scenarios, remediation guidance, and verification results.
 
 An empty findings list is acceptable when no actionable issue is confirmed. Avoid speculative concerns and style-only objections.
+
+## Creator and maintainer
+
+Created and maintained by **Brajesh Kumar**.
